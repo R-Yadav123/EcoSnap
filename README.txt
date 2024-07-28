@@ -1,1 +1,1 @@
-
+EcoSnap is a user-friendly website with a machine learning model and data visualization features. This website was made with Kaggle, HTML, CSS, JavaScript, Python, Plotly, and Google Teachable Machine.
